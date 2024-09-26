@@ -27,8 +27,8 @@
 </p>
 <p align="center">
  Terminal only accepts ANSI color.<br>
- Username: reyadxshipu<br>
- Password: rxs<br>
+ Username: huuank8<br>
+ Password: 2008<br>
 </p>
 <p align="center">  <a href="https://t.me/teamrxs"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
 
